@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>hzwu.Service</AssemblyName>
+    <RootNamespace>hzwu.Service</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\hzwu.Interface\hzwu.Interface.csproj" />
+  </ItemGroup>
+
+</Project>
